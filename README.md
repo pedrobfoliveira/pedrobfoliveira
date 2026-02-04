@@ -37,12 +37,6 @@ Meu objetivo com este GitHub é manter um histórico organizado da minha evoluç
 
 ---
 
-## 📊 Estatísticas do GitHub
-
-![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=pedrobfoliveira&layout=compact&langs_count=8)
-
----
-
 ## 📫 Contato
 
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:pedrobfoliveira2004@gmail.com)
